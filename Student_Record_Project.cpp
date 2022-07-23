@@ -158,7 +158,7 @@ tuple<string, string> studInfo() {
 	cout << "Enter studant name : ";
 	cin >> name;
 opt:
-cout<<123;
+cout<<12;
 	cout << "1 == IT\t 2 == CS\t 3 == SE\n";
 	cout << "Enter department : ";
 	cin >> option;
